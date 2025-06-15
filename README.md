@@ -25,6 +25,14 @@ Accesează site-ul aici: [https://www.gitguide.space/]
 
 Acest proiect este creat pentru a ajuta începătorii să învețe Git și pentru a susține educația open-source. Codul este liber de folosit și modificat.
 
+## Instalare și utilizare
+
+### Clonează repository-ul:
+git clone https://github.com/utilizator/gitguide.git
+cd gitguide
+npm install
+npm run dev
+
 ## 📄 Licență
 
 Acest proiect este licențiat sub [Apache License 2.0](LICENSE).
